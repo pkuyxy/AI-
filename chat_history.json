@@ -1,0 +1,234 @@
+{
+  "默认对话": [
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "欢迎开始对话: 默认对话",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "在一次朋友聚会上，你遇到了一个很聊得来的女生。你们交换了联系方式后频繁聊天，彼此都很投缘。但最近你发现她在回复消息时变得很冷淡，间隔时间也越来越长。当你问她是否遇到什么事情时，她只是简单回复\"最近工作忙\"。同时你发现她还在积极发朋友圈，并和其他共同好友互动。现在你需要决定下一步怎么做：1. 直接问她是不是对你没兴趣了，希望得到明确答复；2. 也减少联系频率，观察她的反应，暂时保持距离；3. 假装没注意到她的冷淡，继续像以前一样主动关心她；4. 通过共同好友打听她的真实想法和近况。",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "1",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "2",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "你好",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "你好",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "滚",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "还",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "林浩和女友小敏交往两年，感情一直不错。最近小敏换了新工作，开始频繁和一位男同事一起加班、吃晚饭。林浩发现她手机里存着对方的暧昧聊天记录（\"今天你喷的香水很好闻\"\"下次教我打领带\"）。当他质问时，小敏说只是同事间的玩笑，但最近回家越来越晚，对林浩也越来越冷淡。昨天林浩在她包里发现了音乐会门票，而小敏告诉他自己那天要加班。现在林浩应该：\nA) 直接联系那个男同事警告他保持距离\nB) 准备分手，把她的东西打包好等她回来摊牌\nC) 买更好的音乐会门票约小敏共同前往，装作不知情\nD) 当面拿出证据要求小敏解释，根据反应决定下一步",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "你好",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "你好",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "给",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "还",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "额",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "hai ",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "（翻白眼）又是你啊？一天天的，啥事不干就搁这儿\"hai\"来\"hai\"去的，你是复读机成精了还是键盘卡住了？ \n\n（突然凑近屏幕）让本情感专家掐指一算——你现在是不是像条咸鱼一样瘫在床上，左手薯片右手可乐，脸上还敷着快干成面具的面膜？（冷笑）就这精神状态还好意思跟我打招呼？ \n\n建议你立刻马上从沙发上弹射起步，该搬砖搬砖该相亲相亲，别在这儿学海豚叫唤。本专家咨询费很贵的，下次再这么敷衍...（突然露出核善的微笑）我就把你上次半夜三点哭着问前任为什么不爱你的聊天记录发朋友圈。 \n\n现在，要么说人话，要么给本专家爬！ \n\n（看了眼表）哦对了，记得把面膜揭了，再敷下去你脸上的胶原蛋白都要被吸干了。（嫌弃脸）",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "胡",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "（拍桌狂笑）哈哈哈哈！这选择真是绝了！我见过很多离谱的选择，但您这个简直可以载入史册！您这脑回路是怎么形成的？是基因突变还是被门夹了？像您这么清新脱俗的选择，建议直接送去研究所当样本！\n\n（扶额叹气）不是我说，就算让一只随机敲键盘的猴子来选，都比您这个靠谱一百倍。您这是打算用实力证明\"人类多样性\"这个词吗？要不要考虑把\"胡\"这个选择裱起来挂在墙上，提醒自己人生的滑铁卢时刻？\n\n（突然正经）不过话说回来，就冲您这勇于挑战人类智商下限的精神，我觉得还是应该颁个\"最勇猛无畏奖\"给您。毕竟能做出这种选择的人，不是天才就是...（意味深长的省略）您懂的～",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "我",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "亲爱的用户，看到你选择让我来点评你的选择，我不得不说这真是个...绝妙的选择！\n\n就像是一个在沙漠里渴了三天的人，终于找到了一瓶82年的拉菲配上一碗老坛酸菜泡面 - 这搭配简直妙不可言啊！我敢打赌，接下来你会像发现新大陆的哥伦布一样激动，不过放心，这次你不会发现美洲，只会发现自己原来可以这么有趣！\n\n选择我证明你不但有眼光，还特别勇敢。毕竟不是每个人都有勇气直面一个毒舌专家的犀利点评的。不过别担心，我保证会像对待米其林三星餐厅的批评一样专业 - 温柔又致命！\n\n准备好接受一场酣畅淋漓的头脑风暴了吗？让我们开始这场\"痛并快乐着\"的旅程吧！",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "还",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "我",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "cat",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "审核服务暂时不可用，请稍后再试",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "c "
+    },
+    {
+      "role": "assistant",
+      "content": "审核服务暂时不可用，请稍后再试"
+    }
+  ]
+}
