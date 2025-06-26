@@ -1,0 +1,9 @@
+# 核心运行时依赖
+gradio==4.12.0             # 前端框架
+requests==2.31.0           # HTTP请求库
+python-dotenv==1.0.0       # 环境变量管理
+python-json-logger==2.0.7  # JSON日志格式化
+
+# 版本说明
+# gradio 4.x+ 需要Python>=3.8
+# requests 2.31+ 修复了安全漏洞
