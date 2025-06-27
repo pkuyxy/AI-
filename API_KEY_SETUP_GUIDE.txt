@@ -1,0 +1,26 @@
+"""API密钥配置指南
+
+1. 推荐方式（最安全） - 使用环境变量：
+   - 设置环境变量：
+     - DEEPSEEK_API_KEY=您的DeepSeek密钥
+     - BAIDU_API_KEY=您的百度API Key
+     - BAIDU_SECRET_KEY=您的百度Secret Key
+
+2. 替代方式 - 使用配置文件：
+   在secrets.json文件中添加：
+   {
+       "DEEPSEEK_API_KEY": "您的DeepSeek密钥",
+       "BAIDU_API_KEY": "您的百度API Key",
+       "BAIDU_SECRET_KEY": "您的百度Secret Key"
+   }
+
+3. 临时使用（不推荐）：
+   如果不配置密钥，将使用受限的共享密钥，可能会有：
+   - 速率限制
+   - 功能限制
+   - 稳定性问题
+
+获取自己的API密钥：
+- DeepSeek: https://platform.deepseek.com
+- 百度语音: https://console.bce.baidu.com/ai/
+"""
