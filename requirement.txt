@@ -1,0 +1,56 @@
+
+======================= 核心功能依赖（必需） =======================
+gradio>=4.12.0,<5.0.0        # Web交互界面框架
+requests>=2.31.0,<3.0.0      # API调用
+python-dotenv>=1.0.0         # 环境变量管理
+pydub>=0.25.1                # 音频处理（需额外安装FFmpeg）
+baidu-aip>=4.16.18           # 百度语音识别SDK
+websocket-client>=1.6.1      # 实时语音通信
+numpy>=1.21.0,<2.0.0         # 数值计算核心库
+urllib3>=1.26.0,<2.0.0       # 安全HTTP客户端
+
+======================= 可选功能依赖 =======================
+
+[语音处理模块]
+SpeechRecognition>=3.10.0    # 语音识别接口
+pyaudio>=0.2.13              # 音频录制（需系统安装portaudio）
+soundfile>=0.12.1            # 音频格式转换（需libsndfile）
+
+[文件处理模块]
+PyPDF2>=3.0.1               # PDF文本提取
+python-docx>=0.8.11         # Word文档处理
+openpyxl>=3.1.2             # Excel文件处理
+python-magic>=0.4.27        # 文件类型检测（需libmagic）
+
+======================= 开发测试依赖 =======================
+black>=23.7.0               # 代码格式化工具
+mypy>=1.4.1                 # 静态类型检查
+pylint>=2.17.5              # 代码质量分析
+pytest>=7.4.0               # 单元测试框架
+pytest-cov>=4.1.0           # 测试覆盖率
+pytest-asyncio>=0.21.0      # 异步测试支持
+
+======================= 系统级依赖 =======================
+# 必须提前安装的系统工具：
+- FFmpeg (pydub依赖)
+- portaudio (pyaudio依赖)
+- libsndfile (soundfile依赖)
+- libmagic (python-magic依赖)
+
+安装方法：
+Linux: sudo apt-get install ffmpeg portaudio19-dev libsndfile1 libmagic-dev
+Mac: brew install ffmpeg portaudio libsndfile libmagic
+
+======================= 安装说明 =======================
+1. 核心功能安装：
+pip install -r requirements.txt
+
+2. 完整功能安装（包含语音+文件处理）：
+pip install -r requirements.txt
+pip install pyaudio soundfile python-magic
+
+3. 开发环境安装：
+pip install -r requirements-dev.txt
+
+4. 系统依赖检查脚本：
+python check_dependencies.py
